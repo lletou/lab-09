@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lab03",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "formatter_ex_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-formatter_ex_lib-Debug-a48df6777883109cb10b.json",
+					"name" : "formatter_ex_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "formatter_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-formatter_lib-Debug-28db3e002a21bc0d3b4b.json",
+					"name" : "formatter_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "solver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-solver-Debug-c8ab1443f5649595f7b5.json",
+					"name" : "solver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "solver_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-solver_lib-Debug-11197425399cd45ebdf8.json",
+					"name" : "solver_lib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/User/Desktop/tp/lab-09/out/build/x64-Debug",
+		"source" : "C:/Users/User/Desktop/tp/lab-09"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
